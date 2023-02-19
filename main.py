@@ -86,7 +86,7 @@ def botao_igual():
 #Botoes de operação
 divide = Button(root,
                 text='/',
-                padx=40,
+                padx=42,
                 pady=20,
                 command=botao_divisao,
                 fg='#FFFFFF',
